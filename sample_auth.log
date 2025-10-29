@@ -1,0 +1,10 @@
+Dec 10 14:23:45 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 22
+Dec 10 14:23:46 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 22
+Dec 10 14:23:47 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 22
+Dec 10 14:23:48 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 22
+Dec 10 14:23:49 server sshd[12345]: Failed password for invalid user admin from 192.168.1.100 port 22
+Dec 10 14:23:50 server sshd[12345]: Accepted password for user john from 192.168.1.101 port 22
+Dec 10 14:23:51 server sshd[12345]: Failed password for root from 10.0.0.50 port 22
+Dec 10 14:23:52 server sshd[12345]: Failed password for root from 10.0.0.50 port 22
+Dec 10 14:23:53 server sshd[12345]: Connection closed by 192.168.1.100 port 22
+Dec 10 14:23:54 server sshd[12345]: Accepted password for user alice from 192.168.1.102 port 22
